@@ -1,2 +1,2 @@
 # Hello-World
-hello, github
+print('Hello, World')
